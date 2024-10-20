@@ -10,7 +10,7 @@ This project is a console-based **Bank Management System** developed in C++. It 
 - **Add New Client**: Register a new client by entering their account details.
 - **View Client List**: Display all registered clients along with their account details.
 - **Update Client Information**: Modify existing client details (PIN, name, phone, balance).
-- **Delete Client**: Remove a client’s record from the database.
+- **Delete Client**: Remove a clientâ€™s record from the database.
 - **Search Client by Account Number**: Find a specific client based on their account number.
 
 ---
@@ -42,7 +42,7 @@ The system stores client information (account number, PIN, name, phone number, b
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/Bank_Project.git
+    git clone https://github.com/Beyah96/Bank_Project.git
     cd Bank_Project
     ```
 
